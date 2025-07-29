@@ -94,7 +94,7 @@ const FileUpload: React.FC = () => {
 
   {answer && (
     <div style={{ marginTop: 20 }}>
-      <strong>Answer t:</strong>
+      <strong>Answer</strong>
       <p>{answer}</p>
     </div>
   )}
