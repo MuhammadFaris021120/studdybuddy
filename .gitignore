@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# Node.js (if using frontend with React)
+node_modules/
+dist/
+build/
